@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Diabetes Predictor
+
+This project contains a machine learning model that predicts whether a patient has diabetes or not based on certain features like age, BMI, blood pressure, etc. The model has been trained on a dataset of diabetes patients and non-diabetes patients, and it achieves an accuracy of 85% on the test set.
+
+## Live Deployment
+
+The web app is live and can be accessed using the following link:
+
+- [Diabetes Predictor App](https://diabetes-predictor-tau.vercel.app/)
 
 ## Getting Started
 
-First, run the development server:
+To run the web app, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 1. Clone the repository to your local machine:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    git clone https://github.com/your-username/diabetes-predictor.git
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
+## 2. Change into the project directory:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+    cd diabetes-predictor
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 3. Install the dependencies:
+    npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 4. Run the development server:
+    npx next dev
 
-## Deploy on Vercel
+## 5. Open a web browser and go to http://localhost:3000.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Colab Notebook
+
+    To view the Colab notebook used to train the machine learning model, click on the following link:
+
+    - [Colab Notebook](https://colab.research.google.com/drive/1NUvVew6HJvDAIClqFDxZkyARMovhPBKO?usp=sharing)
+
+## Presentation
+
+    You can find the project presentation at: https://drive.google.com/drive/folders/1Wfc4aCISI9wgjkuJUwFsM6mcYBFU7Ftm?usp=sharing.
