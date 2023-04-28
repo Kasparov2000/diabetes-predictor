@@ -36,8 +36,8 @@ To run the web app, follow these steps:
 
     To view the Colab notebook used to train the machine learning model, click on the following link:
 
-    - [Colab Notebook](https://colab.research.google.com/drive/1NUvVew6HJvDAIClqFDxZkyARMovhPBKO?usp=sharing)
+- [Colab Notebook](https://colab.research.google.com/drive/1NUvVew6HJvDAIClqFDxZkyARMovhPBKO?usp=sharing)
 
 ## Presentation
 
-    You can find the project presentation at: https://drive.google.com/drive/folders/1Wfc4aCISI9wgjkuJUwFsM6mcYBFU7Ftm?usp=sharing.
+- [Presentation Video](https://drive.google.com/drive/folders/1Wfc4aCISI9wgjkuJUwFsM6mcYBFU7Ftm?usp=sharing.)
